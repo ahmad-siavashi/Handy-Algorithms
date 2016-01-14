@@ -2,7 +2,7 @@
 Some handy algorithms
 
 - Python
--- Aho-Corasick
+ -- Aho-Corasick
 -- Radix Sort
 -- Counting Sort
 -- Quick Sort
